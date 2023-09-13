@@ -1,6 +1,6 @@
 /*
 WHATSAPP BOT GOKU
-WHATSAPP - 94767438882
+WHATSAPP - 919425473765
 SUPPORT GROUP - https://t.me/QueenNilu
 YOUTUBE - http://youtube.com/janithsadanuwan
 */
