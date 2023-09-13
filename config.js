@@ -1,9 +1,8 @@
 /*
 WHATSAPP BOT GOKU
 WHATSAPP - 919425473765
-SUPPORT GROUP - https://t.me/QueenNilu
-YOUTUBE - http://youtube.com/janithsadanuwan
-*/
+SUPPORT GROUP - 
+YOUTUBE - 
 
 const fs = require('fs');
 if (fs.existsSync('config.env')) require('dotenv').config({ path: './config.env' });
@@ -14,10 +13,9 @@ function convertToBool(text, fault = 'true') {
 
 // PUT YOUR SESSION ID HERE  ##Required 
 
-global.SESSION_ID = 'QueenNilu;;;AnJylDLB#6kDmUCbOZgNfEJ0aLFjS3YB1IzoAGRYZrQCmWDn8r1A' // PUT your session ID BY scan QR 
-
+global.SESSION_ID = 'QueenNilu;;;pjRkwZza#d5v8RAyrGFzbhubx5MfZhTvbi7597tQeqazvd3yIdeo
 // databse URL  ##Required 
-global.POSTGRESQL_URL = 'postgres://rush_plzx_user:pimYitDqhvoRVscy9sYNsIBvFL7Ksnb
+global.POSTGRESQL_URL = postgres://touqeersiddquiatgmail_com_user:hnuZdFyQWHMFtaI43Kys5Ot9a2V8YvFx@dpg-ck0peim3ktkc7392pbv0-a.frankfurt-postgres.render.com/touqeersiddquiatgmail_com
 
 O@dpg-cjvtsinhdsdc73abu3m0-a.frankfurt-
 
@@ -27,9 +25,9 @@ postgres.render.com/rush_plzx'
 
 // ⚙️ OWNER SETTINGS  ⚙️
 
-global.OWNER_NUMBER = '94767438882'
+global.OWNER_NUMBER = '919425473765'
 
-global.OWNER_NAME = 'Janiya_X'
+global.OWNER_NAME = 'GOKU NILU'
 
 global.TIMEZONE = 'Asia/Colombo' 
 
